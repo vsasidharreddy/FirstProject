@@ -1,4 +1,11 @@
 git init - to initialize the connection between the local workspace and Git
 git add . - to add the new files
 git commit origin "url"
+git checkout branchname  - to switch to specific branch
+git pull - to pull the latested changes
+
+git commit -m " commit message"
+
+git commit newbranchname
+
 
