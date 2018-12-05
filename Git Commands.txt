@@ -9,5 +9,6 @@ git commit -m " commit message"
 git commit newbranchname
 
 
+git rebase master foo
 
 
