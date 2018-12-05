@@ -1,0 +1,4 @@
+git init - to initialize the connection between the local workspace and Git
+git add . - to add the new files
+git commit origin "url"
+
