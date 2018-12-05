@@ -11,4 +11,6 @@ git commit newbranchname
 
 git rebase master foo
 
+git push oring branchname
+
 
